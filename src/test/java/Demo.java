@@ -114,6 +114,7 @@ public class Demo {
     //7.-Register - Successful
     @Test
     public void regSucc(){
+        baseURI = "https://reqres.in/api";
 
     }
 
